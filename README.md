@@ -14,4 +14,4 @@
 
 ---
 
-This code accompanies the manuscript "Assessing the risk of future Dunkelflaute events for Germany using generative deep learning" ([link](#) follows soon).
+This code accompanies the manuscript "Assessing the risk of future Dunkelflaute events for Germany using generative deep learning" ([https://arxiv.org/abs/2509.24788](https://arxiv.org/abs/2509.24788)).
